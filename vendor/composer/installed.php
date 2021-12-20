@@ -6,8 +6,8 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'dac20b13456673c97e209f498496d81193d756b9',
-    'name' => 'maithemewp/mai-prosper',
+    'reference' => '90f49ea8e2533d9364dc564cb26cdc66b1adc283',
+    'name' => 'maithemewp/mai-achieve',
   ),
   'versions' => 
   array (
@@ -30,6 +30,15 @@
       ),
       'reference' => '21949732f1ea21d81500bdda8f882ac7eb0f98af',
     ),
+    'maithemewp/mai-achieve' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '90f49ea8e2533d9364dc564cb26cdc66b1adc283',
+    ),
     'maithemewp/mai-installer' => 
     array (
       'pretty_version' => 'dev-master',
@@ -38,16 +47,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '559c208d15f661f112a6b0f253acc7c0dd22acb8',
-    ),
-    'maithemewp/mai-prosper' => 
-    array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'dac20b13456673c97e209f498496d81193d756b9',
+      'reference' => '244cf7604a6b34a4662c29385497d4257f175956',
     ),
   ),
 );

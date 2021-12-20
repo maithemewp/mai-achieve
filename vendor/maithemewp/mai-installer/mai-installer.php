@@ -7,7 +7,7 @@
  * @author    BizBudding
  * @copyright Copyright © 2020 BizBudding
  * @license   GPL-2.0-or-later
- * @version   1.4.0
+ * @version   1.5.0
  */
 
 /**
