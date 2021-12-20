@@ -1,13 +1,20 @@
 {
-    "name": "maithemewp/mai-achieve",
+    "name": "maithemewp/mai-prosper",
     "authors": [
         {
             "name": "BizBudding",
             "email": "team@bizbudding.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/maithemewp/mai-installer"
+        }
+    ],
     "require": {
-        "maithemewp/mai-installer": "dev-master"
+        "maithemewp/mai-installer": "dev-master",
+        "afragen/wp-dependency-installer": "^4.2"
     },
     "config": {
         "preferred-install": {
