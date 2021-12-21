@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Mai Achieve theme.
  *
