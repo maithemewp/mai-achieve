@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '5508d3a7bc5cf8c55ae37eb35d65beb42f2b801e',
+    'reference' => '2dbc351e2c47417bc308943a19ca0a409012ea48',
     'name' => 'maithemewp/mai-achieve',
   ),
   'versions' => 
@@ -25,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '5508d3a7bc5cf8c55ae37eb35d65beb42f2b801e',
+      'reference' => '2dbc351e2c47417bc308943a19ca0a409012ea48',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -35,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
   ),
 );
